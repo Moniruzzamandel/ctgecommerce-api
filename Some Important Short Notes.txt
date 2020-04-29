@@ -1,0 +1,21 @@
+Create Product: Create Product body text
+
+{
+	"name" : "Samsung a6",
+	"description" : "nice features and hd camera",
+	"price" : "200",
+	"stock" : "5",
+	"discount" : "0"
+}
+
+
+
+Oath: Password Generate body text
+
+{
+	"grant_type" : "password",
+	"client_id": "2",
+	"client_secret" : "MKh2My53BdvcV71HBUfiUVhyqrNSGMD1Y4NNw0YG",
+	"username" : "monir@gmail.com",
+	"password" : "12345678"
+}
